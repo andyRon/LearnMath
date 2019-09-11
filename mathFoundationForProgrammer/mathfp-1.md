@@ -1,3 +1,5 @@
+
+
 ## 01-二进制：了解计算机的源头
 
 
@@ -170,7 +172,6 @@ public class Lesson3_1 {
 - **在一定范围内查找目标值**。二分查找
 
 - **机器学习算法中的迭代**。K- 均值算法（K-means clustering）、PageRank 的马尔科夫链（Markov chain）、梯度下降法（Gradient descent）等等。
-- 极客时间版权所有: https://time.geekbang.org/column/article/72243
 
 具体说明。
 
